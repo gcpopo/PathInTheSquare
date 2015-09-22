@@ -1,3 +1,3 @@
 # PathInTheSquare
 
-This is a mini game to connect to squares with tiles of same color.
+This is a mini game to connect two squares with tiles of same color.
